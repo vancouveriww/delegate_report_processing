@@ -15,6 +15,8 @@ SUBTYPE_KEY = '/Subtype'
 WIDGET_SUBTYPE_KEY = '/Widget'
 
 """
+Example of the field data for the 'city' field. 
+Most relevant attributes are '/T' and '/V' ('Tag' & 'Value'?)
 {
     '/Border': ['0', '0', '0'],
     '/Rect': ['49.08', '693.509', '184.17', '708.854'],
